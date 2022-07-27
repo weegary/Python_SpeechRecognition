@@ -1,4 +1,4 @@
-# Python_SpeechRecognition
+# Python Speech Recognition and Speech Synthesis
 
 ## Meta
 This program is written by Gary Wee.
